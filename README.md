@@ -144,7 +144,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by [Your Name]
+Created by NASIR
 
 ## 🙏 Acknowledgments
 
