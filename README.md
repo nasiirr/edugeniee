@@ -19,7 +19,7 @@ An intelligent learning platform that generates personalized quizzes and study m
 
 ## 🚀 Live Demo
 
-[Deploy on Streamlit Cloud](https://share.streamlit.io/)
+[Deploy on Streamlit Cloud](https://edugeniee.streamlit.app/)
 
 ## 🛠️ Technology Stack
 
@@ -144,7 +144,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by [Your Name]
+Created by NASIR
 
 ## 🙏 Acknowledgments
 
